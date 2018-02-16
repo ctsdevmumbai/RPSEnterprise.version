@@ -1,5 +1,5 @@
 {
 "minVersion" : 1.3,
 "maxVersion" : 1.3,
-"updateMessage" : "Some of the new features in this release are:\n - Added email auto-fill functionality in marketing library if user is redirected from "Report A Visit" page.\n - Bug Fixes"
+"updateMessage" : "Some of the new features in this release are:\n - Added email auto-fill functionality in marketing library if user is redirected from \"Report A Visit\" page.\n - Bug Fixes"
 }
